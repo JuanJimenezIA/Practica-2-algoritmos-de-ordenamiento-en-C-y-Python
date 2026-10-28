@@ -1,0 +1,19 @@
+# ejecutables de C
+*.exe
+*.out
+*.o
+bubble_c
+merge_c
+tree_c
+heap_c
+counting_c
+
+# python
+__pycache__/
+*.pyc
+
+# editor y sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
